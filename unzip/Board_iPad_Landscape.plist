@@ -3643,12 +3643,12 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>∈</string>
+												<string>∊</string>
 											</dict>
 											<key>keyID</key>
 											<string>796B12C9-6EA8-4DF7-986B-6D4CAD405466</string>
 											<key>output</key>
-											<string>∈</string>
+											<string>∊</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>shiftKey</key>
@@ -6238,12 +6238,12 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>⏂</string>
+												<string>⍎</string>
 											</dict>
 											<key>keyID</key>
 											<string>5524C194-91DE-4879-872D-2FC49B52366F</string>
 											<key>output</key>
-											<string>⏂</string>
+											<string>⍎</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>toPanelLayerIndex</key>
@@ -6261,12 +6261,12 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>⏁</string>
+												<string>⍕</string>
 											</dict>
 											<key>keyID</key>
 											<string>F7047D01-E7DD-4931-A474-64115F41EBBE</string>
 											<key>output</key>
-											<string>⏁</string>
+											<string>⍕</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>toPanelLayerIndex</key>
