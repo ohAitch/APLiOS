@@ -4434,12 +4434,12 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>⋂</string>
+												<string>∩</string>
 											</dict>
 											<key>keyID</key>
 											<string>558D3A02-A6C4-46B9-BFF9-2EFECE83558C</string>
 											<key>output</key>
-											<string>⋂</string>
+											<string>∩</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>toPanelLayerIndex</key>
@@ -4457,12 +4457,12 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>⋃</string>
+												<string>∪</string>
 											</dict>
 											<key>keyID</key>
 											<string>8A55A098-C0EB-48AB-9460-FD2753BC1582</string>
 											<key>output</key>
-											<string>⋃</string>
+											<string>∪</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>toPanelLayerIndex</key>
