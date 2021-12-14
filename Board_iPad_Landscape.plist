@@ -3174,12 +3174,12 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>⁻</string>
+												<string>¯</string>
 											</dict>
 											<key>keyID</key>
 											<string>9D442279-FBE3-49D3-A568-30687A2F41E0</string>
 											<key>output</key>
-											<string>⁻</string>
+											<string>¯</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>shiftKey</key>
@@ -5710,12 +5710,12 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>%</string>
+												<string>←</string>
 											</dict>
 											<key>keyID</key>
 											<string>9E0B733E-9BD5-46B9-B551-177935FA4387</string>
 											<key>output</key>
-											<string>%</string>
+											<string>←</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>toPanelLayerIndex</key>
@@ -5733,12 +5733,12 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>^</string>
+												<string>→</string>
 											</dict>
 											<key>keyID</key>
 											<string>DD2FBD70-5EEF-444E-9A7D-D8C08EBB5161</string>
 											<key>output</key>
-											<string>^</string>
+											<string>→</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>toPanelLayerIndex</key>
@@ -6123,10 +6123,33 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>;</string>
+												<string>^</string>
 											</dict>
 											<key>keyID</key>
 											<string>1DF05E5C-A3DF-49F9-9F92-D52E98B3737E</string>
+											<key>output</key>
+											<string>^</string>
+											<key>repeatEnabled</key>
+											<false/>
+											<key>toPanelLayerIndex</key>
+											<integer>-1</integer>
+											<key>toSectionLayerIndex</key>
+											<integer>-1</integer>
+											<key>type</key>
+											<integer>0</integer>
+										</dict>
+										<dict>
+											<key>isBackgroundHidden</key>
+											<false/>
+											<key>keyCap</key>
+											<dict>
+												<key>anchor</key>
+												<integer>0</integer>
+												<key>text</key>
+												<string>;</string>
+											</dict>
+											<key>keyID</key>
+											<string>49C08D66-6406-4340-A8BD-F8C5FA98FBCC</string>
 											<key>output</key>
 											<string>;</string>
 											<key>repeatEnabled</key>
@@ -6149,32 +6172,9 @@
 												<string>:</string>
 											</dict>
 											<key>keyID</key>
-											<string>49C08D66-6406-4340-A8BD-F8C5FA98FBCC</string>
-											<key>output</key>
-											<string>:</string>
-											<key>repeatEnabled</key>
-											<false/>
-											<key>toPanelLayerIndex</key>
-											<integer>-1</integer>
-											<key>toSectionLayerIndex</key>
-											<integer>-1</integer>
-											<key>type</key>
-											<integer>0</integer>
-										</dict>
-										<dict>
-											<key>isBackgroundHidden</key>
-											<false/>
-											<key>keyCap</key>
-											<dict>
-												<key>anchor</key>
-												<integer>0</integer>
-												<key>text</key>
-												<string>…</string>
-											</dict>
-											<key>keyID</key>
 											<string>34865807-8EA9-455C-A8A8-A27C23A7BBE0</string>
 											<key>output</key>
-											<string>…</string>
+											<string>:</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>toPanelLayerIndex</key>
