@@ -219,6 +219,7 @@ INSERT INTO chars VALUES(194,5,'÷',247,187);
 INSERT INTO chars VALUES(195,4,'…',8230,190);
 INSERT INTO chars VALUES(196,5,'∩',8745,189);
 INSERT INTO chars VALUES(197,5,'∪',8746,190);
+INSERT INTO chars VALUES(198,5,'¯',175,191);
 CREATE TABLE words 
 
 ( 
@@ -263,6 +264,6 @@ CREATE TABLE settings
 INSERT INTO settings VALUES('DBVersion','Database Version','1');
 DELETE FROM sqlite_sequence;
 INSERT INTO sqlite_sequence VALUES('groups',8);
-INSERT INTO sqlite_sequence VALUES('chars',197);
+INSERT INTO sqlite_sequence VALUES('chars',198);
 INSERT INTO sqlite_sequence VALUES('words',5);
 COMMIT;
