@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>candidateKeysTipVisible</key>
+	<false/>
+	<key>characterPreview</key>
+	<true/>
+	<key>createDateTime</key>
+	<string>2021-12-13 21:17:20</string>
+	<key>engine</key>
+	<string></string>
+	<key>keyboardID</key>
+	<string>F4A7B573-EA0A-4484-A8BD-3F4351A3CE97</string>
+	<key>name</key>
+	<string>APL-iPad</string>
+	<key>updateDateTime</key>
+	<string>2021-12-13 21:17:20</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>
