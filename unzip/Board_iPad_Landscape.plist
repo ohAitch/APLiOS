@@ -3503,12 +3503,12 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>⋁</string>
+												<string>∨</string>
 											</dict>
 											<key>keyID</key>
 											<string>E6A16385-ECCA-4857-B6B8-468F53497354</string>
 											<key>output</key>
-											<string>⋁</string>
+											<string>∨</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>shiftKey</key>
@@ -3550,12 +3550,12 @@
 												<key>anchor</key>
 												<integer>0</integer>
 												<key>text</key>
-												<string>⋀</string>
+												<string>∧</string>
 											</dict>
 											<key>keyID</key>
 											<string>1D907BD3-2061-4D3A-A4C9-4F8454B8E082</string>
 											<key>output</key>
-											<string>⋀</string>
+											<string>∧</string>
 											<key>repeatEnabled</key>
 											<false/>
 											<key>shiftKey</key>
