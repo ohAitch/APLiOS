@@ -15,4 +15,4 @@
 
 ## Layer Overview
 
-![Alphanumeric, Shifted, Symbols, Shifted symbols, More symbols](https://user-images.githubusercontent.com/1857414/146086712-a4674995-0ec0-489d-ba9c-7fd7923b774a.png)
+![Alphanumeric, Shifted, Symbols, Shifted symbols, More symbols](https://user-images.githubusercontent.com/1857414/146100323-61a52bfe-8bde-4aca-aaba-cc643c4ae42a.jpeg)
