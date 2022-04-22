@@ -12,6 +12,7 @@
 - [ ] Underscored letters
 - [ ] Other use of hold-press alternate keys
 - [ ] BQN variant
+- [ ] Update screenshot for ⌹
 
 ## Layer Overview
 
